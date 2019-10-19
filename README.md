@@ -1,1 +1,8 @@
-# Center-For-Robotos-Who-Cant-Be-In-The-App-Store-And-Wanna-Learn-To-Do-Other-Stuff-Good-Too-update
+# robofriends
+Tutorial for udemy course - React + Redux + PWA
+
+To run the project:
+
+1. Clone this repo
+2. Run `npm install`
+3. Run `npm start`
