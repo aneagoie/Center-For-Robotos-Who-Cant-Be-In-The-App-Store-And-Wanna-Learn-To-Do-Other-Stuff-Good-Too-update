@@ -1,25 +1,26 @@
 {
   "files": {
-    "main.css": "/Center-For-Robotos-Who-Cant-Be-In-The-App-Store-And-Wanna-Learn-To-Do-Other-Stuff-Good-Too-update/static/css/main.0309cf25.chunk.css",
-    "main.js": "/Center-For-Robotos-Who-Cant-Be-In-The-App-Store-And-Wanna-Learn-To-Do-Other-Stuff-Good-Too-update/static/js/main.106103c8.chunk.js",
-    "main.js.map": "/Center-For-Robotos-Who-Cant-Be-In-The-App-Store-And-Wanna-Learn-To-Do-Other-Stuff-Good-Too-update/static/js/main.106103c8.chunk.js.map",
-    "runtime-main.js": "/Center-For-Robotos-Who-Cant-Be-In-The-App-Store-And-Wanna-Learn-To-Do-Other-Stuff-Good-Too-update/static/js/runtime-main.6c8a3359.js",
-    "runtime-main.js.map": "/Center-For-Robotos-Who-Cant-Be-In-The-App-Store-And-Wanna-Learn-To-Do-Other-Stuff-Good-Too-update/static/js/runtime-main.6c8a3359.js.map",
+    "main.css": "/Center-For-Robotos-Who-Cant-Be-In-The-App-Store-And-Wanna-Learn-To-Do-Other-Stuff-Good-Too-update/static/css/main.1e7e73ec.chunk.css",
+    "main.js": "/Center-For-Robotos-Who-Cant-Be-In-The-App-Store-And-Wanna-Learn-To-Do-Other-Stuff-Good-Too-update/static/js/main.fe54c2f5.chunk.js",
+    "main.js.map": "/Center-For-Robotos-Who-Cant-Be-In-The-App-Store-And-Wanna-Learn-To-Do-Other-Stuff-Good-Too-update/static/js/main.fe54c2f5.chunk.js.map",
+    "runtime-main.js": "/Center-For-Robotos-Who-Cant-Be-In-The-App-Store-And-Wanna-Learn-To-Do-Other-Stuff-Good-Too-update/static/js/runtime-main.266ebc5d.js",
+    "runtime-main.js.map": "/Center-For-Robotos-Who-Cant-Be-In-The-App-Store-And-Wanna-Learn-To-Do-Other-Stuff-Good-Too-update/static/js/runtime-main.266ebc5d.js.map",
     "static/css/2.eb45ad44.chunk.css": "/Center-For-Robotos-Who-Cant-Be-In-The-App-Store-And-Wanna-Learn-To-Do-Other-Stuff-Good-Too-update/static/css/2.eb45ad44.chunk.css",
-    "static/js/2.b72d6b25.chunk.js": "/Center-For-Robotos-Who-Cant-Be-In-The-App-Store-And-Wanna-Learn-To-Do-Other-Stuff-Good-Too-update/static/js/2.b72d6b25.chunk.js",
-    "static/js/2.b72d6b25.chunk.js.map": "/Center-For-Robotos-Who-Cant-Be-In-The-App-Store-And-Wanna-Learn-To-Do-Other-Stuff-Good-Too-update/static/js/2.b72d6b25.chunk.js.map",
+    "static/js/2.9bf63e8f.chunk.js": "/Center-For-Robotos-Who-Cant-Be-In-The-App-Store-And-Wanna-Learn-To-Do-Other-Stuff-Good-Too-update/static/js/2.9bf63e8f.chunk.js",
+    "static/js/2.9bf63e8f.chunk.js.map": "/Center-For-Robotos-Who-Cant-Be-In-The-App-Store-And-Wanna-Learn-To-Do-Other-Stuff-Good-Too-update/static/js/2.9bf63e8f.chunk.js.map",
     "index.html": "/Center-For-Robotos-Who-Cant-Be-In-The-App-Store-And-Wanna-Learn-To-Do-Other-Stuff-Good-Too-update/index.html",
-    "precache-manifest.e4b6a4bd52a3dfb0db4edd63e68f0a85.js": "/Center-For-Robotos-Who-Cant-Be-In-The-App-Store-And-Wanna-Learn-To-Do-Other-Stuff-Good-Too-update/precache-manifest.e4b6a4bd52a3dfb0db4edd63e68f0a85.js",
+    "precache-manifest.cf6ab362bb2130b9593fffe6a2f87949.js": "/Center-For-Robotos-Who-Cant-Be-In-The-App-Store-And-Wanna-Learn-To-Do-Other-Stuff-Good-Too-update/precache-manifest.cf6ab362bb2130b9593fffe6a2f87949.js",
     "service-worker.js": "/Center-For-Robotos-Who-Cant-Be-In-The-App-Store-And-Wanna-Learn-To-Do-Other-Stuff-Good-Too-update/service-worker.js",
     "static/css/2.eb45ad44.chunk.css.map": "/Center-For-Robotos-Who-Cant-Be-In-The-App-Store-And-Wanna-Learn-To-Do-Other-Stuff-Good-Too-update/static/css/2.eb45ad44.chunk.css.map",
-    "static/css/main.0309cf25.chunk.css.map": "/Center-For-Robotos-Who-Cant-Be-In-The-App-Store-And-Wanna-Learn-To-Do-Other-Stuff-Good-Too-update/static/css/main.0309cf25.chunk.css.map",
+    "static/css/main.1e7e73ec.chunk.css.map": "/Center-For-Robotos-Who-Cant-Be-In-The-App-Store-And-Wanna-Learn-To-Do-Other-Stuff-Good-Too-update/static/css/main.1e7e73ec.chunk.css.map",
+    "static/js/2.9bf63e8f.chunk.js.LICENSE.txt": "/Center-For-Robotos-Who-Cant-Be-In-The-App-Store-And-Wanna-Learn-To-Do-Other-Stuff-Good-Too-update/static/js/2.9bf63e8f.chunk.js.LICENSE.txt",
     "static/media/App.css": "/Center-For-Robotos-Who-Cant-Be-In-The-App-Store-And-Wanna-Learn-To-Do-Other-Stuff-Good-Too-update/static/media/SEGA.12a3db8b.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.6c8a3359.js",
+    "static/js/runtime-main.266ebc5d.js",
     "static/css/2.eb45ad44.chunk.css",
-    "static/js/2.b72d6b25.chunk.js",
-    "static/css/main.0309cf25.chunk.css",
-    "static/js/main.106103c8.chunk.js"
+    "static/js/2.9bf63e8f.chunk.js",
+    "static/css/main.1e7e73ec.chunk.css",
+    "static/js/main.fe54c2f5.chunk.js"
   ]
 }
