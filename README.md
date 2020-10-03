@@ -1,5 +1,5 @@
 # robofriends
-Tutorial for udemy course - React + Redux + PWA
+React + Redux + PWA 
 
 To run the project:
 

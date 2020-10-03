@@ -10,7 +10,7 @@ import App from './containers/App';
 import * as serviceWorker from './serviceWorker';
 import { requestRobots, searchRobots } from './reducers'
 
-import './index.css';
+import './index.css'; 
 
 const logger = createLogger()
 
