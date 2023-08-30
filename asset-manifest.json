@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Center-For-Robotos-Who-Cant-Be-In-The-App-Store-And-Wanna-Learn-To-Do-Other-Stuff-Good-Too-update/static/css/main.a47edf03.css",
-    "main.js": "/Center-For-Robotos-Who-Cant-Be-In-The-App-Store-And-Wanna-Learn-To-Do-Other-Stuff-Good-Too-update/static/js/main.92a96073.js",
+    "main.js": "/Center-For-Robotos-Who-Cant-Be-In-The-App-Store-And-Wanna-Learn-To-Do-Other-Stuff-Good-Too-update/static/js/main.6e38fc98.js",
     "static/media/SEGA.woff": "/Center-For-Robotos-Who-Cant-Be-In-The-App-Store-And-Wanna-Learn-To-Do-Other-Stuff-Good-Too-update/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
     "index.html": "/Center-For-Robotos-Who-Cant-Be-In-The-App-Store-And-Wanna-Learn-To-Do-Other-Stuff-Good-Too-update/index.html",
     "main.a47edf03.css.map": "/Center-For-Robotos-Who-Cant-Be-In-The-App-Store-And-Wanna-Learn-To-Do-Other-Stuff-Good-Too-update/static/css/main.a47edf03.css.map",
-    "main.92a96073.js.map": "/Center-For-Robotos-Who-Cant-Be-In-The-App-Store-And-Wanna-Learn-To-Do-Other-Stuff-Good-Too-update/static/js/main.92a96073.js.map"
+    "main.6e38fc98.js.map": "/Center-For-Robotos-Who-Cant-Be-In-The-App-Store-And-Wanna-Learn-To-Do-Other-Stuff-Good-Too-update/static/js/main.6e38fc98.js.map"
   },
   "entrypoints": [
     "static/css/main.a47edf03.css",
-    "static/js/main.92a96073.js"
+    "static/js/main.6e38fc98.js"
   ]
 }
