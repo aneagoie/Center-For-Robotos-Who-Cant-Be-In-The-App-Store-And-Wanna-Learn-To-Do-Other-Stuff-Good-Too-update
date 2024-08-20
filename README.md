@@ -1,7 +1,7 @@
 # robofriends
 React + Redux + PWA 
 
-To run the project:
+To run the project: 
 
 1. Clone this repo
 2. Run `npm install`
